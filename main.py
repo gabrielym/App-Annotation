@@ -54,7 +54,7 @@ Manager:
 
 <Tela3>
     MDLabel:
-        text: "Anotação salvada com sucesso!"
+        text: "Anotação salva com sucesso!"
         bold: 1
         halign: 'center'
         pos_hint: {"y": .2}
